@@ -14,7 +14,7 @@ main:
     url: /#talks
     weight: 12
   - name: Intership
-    url: /#news
+    url: /#Intership
     weight: 13
   - name: Awares
     url: experience/
@@ -22,6 +22,3 @@ main:
   - name: Projects
     url: projects/
     weight: 30
-  - name: Teaching
-    url: teaching/
-    weight: 40
