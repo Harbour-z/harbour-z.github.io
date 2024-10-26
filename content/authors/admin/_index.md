@@ -1,17 +1,17 @@
 ---
 # Display name
-title: 吳健雄
+title: Zhidong Zhang
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+# name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Zhidong
+last_name: Zhang
 
 # Status emoji
-status:
-  icon: ☕️
+# status:
+#   icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true
@@ -24,7 +24,7 @@ role: Chief Scientist
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
+  - name: Xi'an Jiaotong University
     url: https://openai.com/
 
 # Social network links
@@ -47,6 +47,7 @@ profiles:
     url: https://orcid.org/
 
 interests:
+  - mLLM
   - Artificial Intelligence
   - Computational Linguistics
   - Information Retrieval
@@ -83,7 +84,7 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-work:
+Intership:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
     company_url: ''
@@ -140,7 +141,6 @@ skills:
         description: ''
         percent: 80
         icon: camera
-
 languages:
   - name: English
     percent: 100
