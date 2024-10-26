@@ -10,13 +10,13 @@ main:
   - name: Papers
     url: /#papers
     weight: 11
-  - name: Talks
+  - name: Education
     url: /#talks
     weight: 12
-  - name: News
+  - name: Intership
     url: /#news
     weight: 13
-  - name: Experience
+  - name: Awares
     url: experience/
     weight: 20
   - name: Projects

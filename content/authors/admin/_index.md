@@ -25,7 +25,7 @@ role: Undergraduate Student
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: Xi'an Jiaotong University
-    url: https://openai.com/
+    url: https://www.xjtu.edu.cn/index.htm
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -41,10 +41,10 @@ profiles:
     url: https://github.com/gcushen
   - icon: brands/linkedin
     url: https://www.linkedin.com/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
+  # - icon: academicons/google-scholar
+  #   url: https://scholar.google.com/
+  # - icon: academicons/orcid
+  #   url: https://orcid.org/
 
 interests:
   - mLLM
@@ -181,6 +181,6 @@ awards:
       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
 
-## About Me
+# About Me
 
 I am currently an undergraduate student at Xi’an Jiaotong University, majoring in Software Engineering. I am now diving into Multimodel Large Language Models, NLP. Feel free to contact me.
