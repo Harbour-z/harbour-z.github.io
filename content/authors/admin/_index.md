@@ -55,8 +55,8 @@ interests:
 education:
   - area: B.S. Software Engineering
     institution: Xi'an Jiaotong University
-    date_start: 2024-07
-    date_end: Present
+    date_start: 2024-07-01
+    date_end: ''
     # summary: |
     #   Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     # button:
@@ -64,8 +64,8 @@ education:
     #   url: 'https://example.com'
   - area: B.S. Energy and Power Engineering
     institution: Xi'an Jiaotong University
-    date_start: 2022-09
-    date_end: 2024-06
+    date_start: 2022-09-01
+    date_end: 2024-06-30
     
 Intership:
   - position: Software Engineering
